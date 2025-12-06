@@ -9,7 +9,7 @@
 </p>
 
 # **Abstract**
-
+ 
 Despite identical AI models and identical query content, users interacting through **mobile devices** consistently produce **lower satisfaction ratings** than users on desktop, tablet, or smart-speaker platforms. This paper investigates the underlying mechanisms of this phenomenon using a real behavioral dataset of 300 AI assistant interactions, a supervised machine learning classifier, and SHAP explainability methods.
 
 The findings reveal that mobile usage introduces a constellation of **behavioral constraints**, **cognitive limitations**, and **environmental pressures** that produce systematically lower satisfaction, even when AI performance is unchanged. Through rigorous model interrogation, we isolate device modality as a dominant negative predictor and explore how human cognitive architecture interacts with device ergonomics to shape satisfaction outcomes.
