@@ -1,5 +1,5 @@
 # **Why Mobile Users Rate AI Lower: A Comprehensive Behavioral, Cognitive, and Machine Learning Explainability Analysis**
-
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/Article-Behavioral%20AI%20Analysis-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Mobile%20User%20Experience-FF8C00?style=for-the-badge" />
