@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Model-Explainable%20ML%20(SHAP)-32CD32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Topic-User%20Satisfaction%20Modeling-8A2BE2?style=for-the-badge" />
 </p>
-      
+       
 # **Abstract**
  
 Despite identical AI models and identical query content, users interacting through **mobile devices** consistently produce **lower satisfaction ratings** than users on desktop, tablet, or smart-speaker platforms. This paper investigates the underlying mechanisms of this phenomenon using a real behavioral dataset of 300 AI assistant interactions, a supervised machine learning classifier, and SHAP explainability methods.
